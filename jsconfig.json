@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        "paths": {
+            "@/*": ["./src/*"]
+        }
+    }
+}
+// This is a jsconfig.json file that configures the JavaScript project settings
